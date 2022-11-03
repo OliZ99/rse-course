@@ -28,6 +28,7 @@ Contributions are always welcome! Please do the following:
 
 The full list of contributors can be [seen here](https://github.com/alan-turing-institute/rse-course/graphs/contributors).
 
+## Zhiqi Li personal copy
 ## Acknowledgements
 
 This course began as a fork of the [UCL RSD course](https://github.com/UCL/rsd-engineeringcourse).
